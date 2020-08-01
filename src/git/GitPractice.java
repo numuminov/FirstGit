@@ -8,6 +8,6 @@ public class GitPractice {
         String str3 = str1 + str2;
 
         System.out.print(str3);
-
+// added changes to learn how to pull from github 
     }
 }
